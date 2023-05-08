@@ -37,7 +37,6 @@ def main():
         renderer.render(simulation.get_entities())
 
 
-
 if __name__ == '__main__':
     main()
 
